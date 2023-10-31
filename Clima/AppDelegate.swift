@@ -2,9 +2,8 @@
 //  AppDelegate.swift
 //  Clima
 //
-//  Created by Saad on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
-//
+//  Created by Saad 
+
 
 import UIKit
 
